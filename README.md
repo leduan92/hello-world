@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository
+
+My name is Leduan and I'm new working with GitHub
